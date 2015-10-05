@@ -18,7 +18,7 @@ body {
 	padding: 0;
 	background: #707070;
 	font-family: "Helvetica", Arial, Helvetica, sans-serif;
-	font-size: 0.9em;
+	font-size: 12pt;
 }
 
 h1, h2, h3 {
@@ -148,6 +148,7 @@ html>body #wrapper {
 	padding-bottom: 20px;
   padding-right: 20px;
   padding-left: 20px;
+  font-size: 12pt;
 }
 
 /* #content h2 {
@@ -162,7 +163,7 @@ html>body #wrapper {
 
 #content ul {
   padding-bottom: 5px;
-  font-size: 11pt
+  font-size: 12pt;
 }
 
 .leftside_image {
